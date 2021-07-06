@@ -15,4 +15,4 @@ Babble
 ## 팀원
 
 - [fortune](./포츈%20소개.md)
-- [fortune](./introduce-peter.md)
+- [peter](./introduce-peter.md)
