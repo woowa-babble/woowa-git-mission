@@ -20,3 +20,7 @@ Babble
 - [ddongule](./ddongule.md)
 - [wilder](./wilder-profile.md)
 - [hyeon9mak](./hyeon9mak.md)
+
+## 프로젝트 소개
+
+- 태그(키워드) 기반 빠른 게임 팀 매칭 서비스
