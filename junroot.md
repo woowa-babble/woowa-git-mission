@@ -3,6 +3,12 @@
 
 >　I’m not groot.
 
+## 역할
+
+- 백엔드
+
+- 오버워치 전도사
+
 ## Experience
 
 * Windows Client Application (WPF, C#)
