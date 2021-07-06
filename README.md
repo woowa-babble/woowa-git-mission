@@ -16,4 +16,5 @@ Babble
 
 - [fortune](./포츈%20소개.md)
 - [peter](./introduce-peter.md)
+- [root](./junroot.md)
 - [ddongule]('./ddongule.md)
