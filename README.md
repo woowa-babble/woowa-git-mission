@@ -14,7 +14,9 @@ Babble
 
 ## 팀원
 
-- [fortune](./포츈%20소개.md)
+- [fortune](./fortune.md)
 - [peter](./introduce-peter.md)
 - [root](./junroot.md)
-- [ddongule]('./ddongule.md)
+- [ddongule](./ddongule.md)
+- [wilder](./wilder-profile.md)
+- [hyeon9mak](./hyeon9mak.md)
