@@ -9,7 +9,6 @@ Babble
 ## 팀소개
 관심사 기반 빠른 매칭 서비스(babble)
 
---- 
-
 ## 팀원
-[루트](./junroot.md)
+- [fortune](./포츈%20소개.md)
+- [root](./junroot.md)
