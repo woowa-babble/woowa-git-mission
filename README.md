@@ -12,6 +12,10 @@ Babble
 
 관심사 기반 빠른 매칭 서비스(babble)
 
+## 담당코치
+
+잘생긴 제이슨
+
 ## 팀원
 
 - [fortune](./fortune.md)
