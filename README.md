@@ -18,4 +18,4 @@ Babble
 - [peter](./introduce-peter.md)
 - [root](./junroot.md)
 - [ddongule](./ddongule.md)
-- [와일더](./wilder-profile.md)
+- [wilder](./wilder-profile.md)
