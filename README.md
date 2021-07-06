@@ -9,4 +9,7 @@ Babble
 ## 팀소개
 관심사 기반 빠른 매칭 서비스(babble)
 
-[그루밍의 소개]('./ddongule.md)
+
+## 팀원
+- [fortune](./포츈%20소개.md)
+- [ddongule]('./ddongule.md)
