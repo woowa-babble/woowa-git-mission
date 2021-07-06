@@ -2,8 +2,6 @@
 
 구구가 제공한 git flow 미션을 팀단위로 해결한다.
 
-=======
-
 ## 팀명
 
 Babble
@@ -16,7 +14,7 @@ Babble
 
 ## 팀원
 
-- [fortune](./포츈%20소개.md)
+- [fortune](./fortune.md)
 - [peter](./introduce-peter.md)
 - [root](./junroot.md)
 - [ddongule](./ddongule.md)
